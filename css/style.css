@@ -1,7 +1,30 @@
 .pppp {
+	font-size: 25px;
+}
+
+.tttt{
 	font-size: 30px;
 }
 
-.ττττ{
-	font-size: 30px;
+h1{
+	background-color: deeppink;
+}
+h2{
+	background-color: hotpink;
+}
+.nnnn{
+	font-size: 25px;
+}
+
+.proti-ikona{
+	width: 100%;
+}
+.deuterh-eikona{
+	width: 100%;
+}
+img {
+	width:100%;
+}
+div{
+	margin-bottom: 20px;
 }
